@@ -1,11 +1,31 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>character quiz</title>
 </head>
+
 <body>
     <h1>인물퀴즈</h1>
+    <script>
+        $.ajax({
+            type: "GET",
+            url: "https://docs.google.com/spreadsheets/d/1c5HdffUv0YSmX4QL5dY7TFEku-KLj8n1L7WJpKHEDxc/edit#gid=0",
+            data: {
+                "카테고리": "넣을 데이터",
+                "국내외구분": "넣을 데이터",
+                "실명": "넣을 데이터",
+                "배역명": "넣을 데이터",
+                "작품": "넣을 데이터",
+                "이미지": "넣을 데이터"
+            },
+            success: function (response) {
+                alert('입력 완료.');
+            }
+        });
+    </script>
 </body>
+
 </html>
