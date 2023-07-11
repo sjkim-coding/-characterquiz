@@ -14,12 +14,12 @@
             type: "GET",
             url: "https://docs.google.com/spreadsheets/d/1c5HdffUv0YSmX4QL5dY7TFEku-KLj8n1L7WJpKHEDxc/edit#gid=0",
             data: {
-                "카테고리": "넣을 데이터",
-                "국내외구분": "넣을 데이터",
-                "실명": "넣을 데이터",
-                "배역명": "넣을 데이터",
-                "작품": "넣을 데이터",
-                "이미지": "넣을 데이터"
+                "category": "text",
+                "type": "text",
+                "name": "text",
+                "cName": "text",
+                "content": "text",
+                "image": "url"
             },
             success: function (response) {
                 alert('입력 완료.');
@@ -28,7 +28,7 @@
     </script>
 
     <div>
-        <label for="name">카테고리</label>
+        <label for="category">카테고리</label>
         <input type="text" id="category" name="category">
       </div>
       <div>
@@ -44,8 +44,8 @@
         <input type="text" id="cName" name="cNmae">
       </div>
       <div>
-        <label for="area">작품명</label>
-        <input type="text" id="area" name="area">
+        <label for="content">작품명</label>
+        <input type="text" id="content" name="content">
       </div>
       <div>
         <label for="image">이미지</label>
