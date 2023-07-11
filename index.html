@@ -9,23 +9,6 @@
 
 <body>
     <h1>인물퀴즈</h1>
-    <script>
-        $.ajax({
-            method: "post",
-            url: "https://docs.google.com/spreadsheets/d/1c5HdffUv0YSmX4QL5dY7TFEku-KLj8n1L7WJpKHEDxc/edit#gid=0",
-            data: {
-                "category": "",
-                "type": "",
-                "name": "",
-                "cName": "",
-                "content": "",
-                "image": ""
-            },
-            success: function (response) {
-                alert('입력 완료.');
-            }
-        });
-    </script>
 
     <div>
         <label for="category">카테고리</label>
@@ -53,6 +36,23 @@
       </div>
       <div>
         <button id="google-submit">입력</button>
+        <script>
+            $.ajax({
+                method: "post",
+                url: "https://docs.google.com/spreadsheets/d/1c5HdffUv0YSmX4QL5dY7TFEku-KLj8n1L7WJpKHEDxc/edit#gid=0",
+                data: {
+                    "category": "",
+                    "type": "",
+                    "name": "",
+                    "cName": "",
+                    "content": "",
+                    "image": ""
+                },
+                success: function (response) {
+                    alert('입력 완료.');
+                }
+            });
+        </script>
       </div>
       
       <div id="snackbar"></div>
