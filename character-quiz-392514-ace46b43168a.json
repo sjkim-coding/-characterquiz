@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "character-quiz-392514",
+  "private_key_id": "ace46b43168afba91131417d0ed813d94d563a7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHDCm+DhCUhMvv\nQwSPdLNmQxCA5N3mL60xo+bHjJFSYHxBuHmo5i2O4/R7LWWKcreMUUdCtSu7KoJy\nmnz+/sd1gVNLDj8zXMRwobmvkVbE9yO3J/WOE8how475x6GmZwYM2uNG4EHO9xqA\ng7OclMbOpGjHX/X18V2iTJY9CfC7Al1+FxLRxHANhxhjwFiXwcqBqfKxUIEEpegU\nZYyPc5P2M6wwhT46IccsOBG3ywo9znhtXaZNUtEx8g87DEf5/VroO1uwNX02XEbZ\n/zyxikh7zB+bTEZxgarGA/yaLev38y8Cmod5v9ohmvkhCbHc6RpcFKo+ES3sN6Vs\nnWtPDu33AgMBAAECggEAYLYZsATAbJELT1C2LgeLRQQPyDirUjTXB1f2AP3c+/Py\nW7JItlZES3mZp6G6hObRJMW3BIPnYBS69fj3A6SCACdac4zUC14m+fyyLkpFKQVV\nXp/1MNeO18wws08aTTIgX+2YYS8D+o3YXBnhkpI8+FksqbaH2Lwx/PIOS1EBnLKh\noDSsY1XQllDT2hSEuVvPFJft5Z1fgWOt8I5O80rOPJ1qdCb7j3hm2WIxKI2aRdPc\n+t7q+xhy7o4LUbaOXC4gEph300Ph7E9k/lbVaY4ykNRGx386PfrLoU/lzNjaS5jb\n3w9FxaCCg4fyUge7XElkJEnk6qNkTFlizJwkZc+nnQKBgQDkMRBZAyqQz1joL2OY\ndsvX3ENegfC19PKRbLrS/KZMXHj+LsbhHawb17JmBS0LooQoyZw2Ga+5odw0nxXB\nkBldI2Xg7Bmkv4f81+1gWRv5J/3Xlq5PvaG+zT8UNFX3OJb5YrbvTYLaBpQYDU8U\nituQgiZoY5GLsWBp1aPzf2oEkwKBgQDfTeJUdcxhmnzIIxcgGRwdvjTrIvywP0wd\npgNExhWQL7fdhSagjzyjVBiBS4klNIPtn5V6py2mWHa7VU7oUEfZR46WVwOf9eVo\nK7EnnN7xeiwAcY2b+XPt6p2DVJblCeCyo/nbexu0Ei39J8uZWET75CHzNMbEsYwr\njgsBmw6TjQKBgCi4dLFdtkfXKIduhXhcoq2nmcIQsBLYXj0DSSeDfG2eBt1dHZJo\niCED0csQ22P7IVhh+eVRmiEnODOPvAMpos0TFwgXOdBDeZHuOmb6H9rLfynssrh6\nH5X77Gi/miOezpo8Ombjzxj3GZBdN6Jz0RCtmQsB0aQ7B/h67mHyd8nPAoGAEnbT\nLx6qbquig737DIlm/MKch5DWChDBz3XJsWcbo1d+wY9f+Ui+v9aVTCOdzHjCK+TV\nLFYkfSu1bZoJM0ZoGnxDOwUo5JIljO6H8HmVKaxrdQHurqX6wwJyUcitzXR6ourS\nHybXzJTwPo2K1TwqQBXGBOEpSlxP9c4B9PkIRIUCgYEA0oAxcc8i2mJFs/1zG1Ne\nZ3TtoQe3Q5J7VJ13B1aCxSY8AOzc3BeVFTV7QqRL0uFPn3SfyfkCwJEbA3r+RGHh\nfEPs1hJO80OVRo0ye6guAwEH91nRowuKHXkzce8OC1dlCpYIsfLO2tJ+mAkwwHKQ\n5Kj9Ds7/YRQ4Pv7ohN5XsPM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sjkim-coding@character-quiz-392514.iam.gserviceaccount.com",
+  "client_id": "109309614196026029717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sjkim-coding%40character-quiz-392514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
